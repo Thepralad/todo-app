@@ -35,3 +35,9 @@ li button{
     height: 40px;
     width: 60px;
 }
+
+.tasks{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px;
+}
